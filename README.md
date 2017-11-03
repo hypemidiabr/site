@@ -12,6 +12,7 @@ pip install virtualenv envname
 pip install -r requirements.txt
 
 Instalation Succesfull
+
 cloudinary==1.8.0
 dj-database-url==0.4.2
 dj-static==0.0.6
